@@ -1,6 +1,5 @@
 import praw
 import pprint
-import pickle
 
 user_agent = "Karma_Grabber_Test v1 by /u/Gilda_Griffon"
 r = praw.Reddit(user_agent=user_agent)
@@ -17,5 +16,4 @@ for thing in gen:
                                      + thing.score)
 
 pprint.pprint(karma_by_subreddit)
-file = open('saved.txt')
-pickle.dump(karma_by_subreddit, file)
+
