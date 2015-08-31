@@ -1,6 +1,4 @@
-import praw, pprint, re
-subDict = {
-    }
+import praw, pprint
 user_agent = "Gilda" ##input("Please input your desired user agent to display to reddit: ")
 r = praw.Reddit(user_agent=user_agent)
 nsfwCheck = input("Allow NSFW subs to be displayed?(True or False): ")

@@ -1,5 +1,8 @@
 # PRAW-Project
 Just a few small project to help start PRAW
+
+PRAW Install Instructions - pip install requirements.txt
+
 Karma Breakdown - 
 All it does is asks for a username then grabs their karma and displays it in a dict format.
 Hot Stuff - 
