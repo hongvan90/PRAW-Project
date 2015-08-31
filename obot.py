@@ -1,5 +1,0 @@
-app_id = 'ulWtEPBAep6T9g'
-app_secret = '0sN83L18UYx9cORBWV1tQUC54-E'
-app_uri = 'https://127.0.0.1:65010/authorize_callback'
-app_scopes = 'account creddits edit flair history identity livemanage modconfig modcontributors modflair modlog modothers modposts modself modwiki mysubreddits privatemessages read report save submit subscribe vote wikiedit wikiread'
-app_ua = 'Karma_Grabber v2 by /u/Gilda_Griffon'
